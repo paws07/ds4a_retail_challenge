@@ -3,3 +3,4 @@ online_retail_II.xlsx
 *.parquet
 Presentation*
 .*
+.ipynb_checkpoints
